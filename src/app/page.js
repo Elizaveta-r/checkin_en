@@ -24,7 +24,7 @@ export const metadata = {
     locale: "en_US",
     images: [
       {
-        url: "/og.png",
+        url: "/og-image.png",
         width: 1200,
         height: 630,
         alt: "CheckIn24 — Employee monitoring, time tracking, and AI-powered reporting",
@@ -36,7 +36,7 @@ export const metadata = {
     title: "CheckIn24 — Employee Monitoring & AI Task Control",
     description:
       "Track attendance, monitor employees, automate reporting, and manage routine tasks with AI-powered reminders and verification.",
-    images: ["/og.png"],
+    images: ["/og-image.png"],
   },
 };
 
