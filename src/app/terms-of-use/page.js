@@ -4,7 +4,7 @@ import { terms } from "@/utils/render-data/render-terms-of-use-data";
 import React from "react";
 
 export const metadata = {
-  metadataBase: new URL("https://checkin.your-domain.ru"),
+  metadataBase: new URL("https://checkin-en.vercel.app"),
   title: {
     default: "Terms of Use | CheckIn",
     template: "%s | CheckIn",

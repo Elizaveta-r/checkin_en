@@ -9,16 +9,16 @@ import CTAFirst from "@/sections/CTAFirst";
 import Script from "next/script";
 
 export const metadata = {
-  metadataBase: new URL("https://24checkin.ru/"),
+  metadataBase: new URL("https://checkin-en.vercel.app/"),
   title: "CheckIn24 — Employee Monitoring, Time Tracking & Automated Reporting",
   description:
     "CheckIn24 helps businesses monitor employees, track check-in and check-out times, automate routine reporting, and improve discipline with AI-powered task control and reminders.",
-  alternates: { canonical: "https://24checkin.ru/" },
+  alternates: { canonical: "https://checkin-en.vercel.app/" },
   openGraph: {
     title: "CheckIn24 — Employee Monitoring, Time Tracking & AI Reporting",
     description:
       "Monitor employees, track attendance, automate reports, and control routine tasks with AI-powered reminders and verification in CheckIn24.",
-    url: "https://24checkin.ru/",
+    url: "https://checkin-en.vercel.app/",
     siteName: "CheckIn24",
     type: "website",
     locale: "en_US",
