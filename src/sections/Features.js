@@ -7,8 +7,8 @@ import LineFull from "@/assets/icons/LineFull";
 import Telegram from "@/assets/icons/Telegram";
 import { BellRing, CalendarClock, Repeat } from "lucide-react";
 
-import SecondChildImg1 from "@/assets/img/features/2.1.svg";
-import SecondChildImg2 from "@/assets/img/features/2.2.svg";
+import SecondChildImg1 from "@/assets/img/features/2.1.png";
+import SecondChildImg2 from "@/assets/img/features/2.2.png";
 import SecondChildImg3 from "@/assets/img/features/2.3.png";
 
 import Report from "@/assets/img/report.svg";
