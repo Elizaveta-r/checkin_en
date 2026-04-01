@@ -2,9 +2,9 @@ import SectionTitle from "@/components/SectionTitle";
 import Image from "next/image";
 import React from "react";
 
-import CreateTask from "@/assets/img/screenshots/create-task.png";
+import CreateTask from "@/assets/img/screenshots/create-task.svg";
 import Deadline from "@/assets/img/screenshots/deadline.png";
-import DashboardScreenshot from "@/assets/img/dashboard.png";
+import DashboardScreenshot from "@/assets/img/dashboard.svg";
 
 // "A manager sets up a task in under a minute: chooses who receives it and when — daily, one-time, on specific weekdays, or on specific days of the month. Then selects the confirmation type: photo, text, or a “completed” button."
 

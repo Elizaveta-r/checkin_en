@@ -1,17 +1,17 @@
 import React from "react";
 import Image from "next/image";
 
-import FirstFeature from "@/assets/img/create-task.png";
+import FirstFeature from "@/assets/img/create-task.svg";
 import Line from "@/assets/icons/Line";
 import LineFull from "@/assets/icons/LineFull";
 import Telegram from "@/assets/icons/Telegram";
 import { BellRing, CalendarClock, Repeat } from "lucide-react";
 
-import SecondChildImg1 from "@/assets/img/features/2.1.png";
-import SecondChildImg2 from "@/assets/img/features/2.2.png";
+import SecondChildImg1 from "@/assets/img/features/2.1.svg";
+import SecondChildImg2 from "@/assets/img/features/2.2.svg";
 import SecondChildImg3 from "@/assets/img/features/2.3.png";
 
-import Report from "@/assets/img/report.png";
+import Report from "@/assets/img/report.svg";
 import SectionTitle from "@/components/SectionTitle";
 
 export default function Features() {

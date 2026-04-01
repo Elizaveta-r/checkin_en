@@ -9,15 +9,15 @@ import CTAFirst from "@/sections/CTAFirst";
 import Script from "next/script";
 
 export const metadata = {
-  metadataBase: new URL("https://24checkin.ru/"), // Не забудьте сменить домен, если будет .com
-  title: "CheckIn24 — Employee Monitoring, Time Tracking & 24/7 Reporting",
+  metadataBase: new URL("https://24checkin.ru/"),
+  title: "CheckIn24 — Employee Monitoring, Time Tracking & Automated Reporting",
   description:
-    "CheckIn24 is an AI business assistant for employee monitoring, check-in/out tracking, automated reporting, and reminders. Keep your business processes organized 24/7.",
+    "CheckIn24 helps businesses monitor employees, track check-in and check-out times, automate routine reporting, and improve discipline with AI-powered task control and reminders.",
   alternates: { canonical: "https://24checkin.ru/" },
   openGraph: {
-    title: "CheckIn24 — Employee Monitoring & Time Tracking",
+    title: "CheckIn24 — Employee Monitoring, Time Tracking & AI Reporting",
     description:
-      "Check-in/out, department reports, discipline control, and AI-powered task automation.",
+      "Monitor employees, track attendance, automate reports, and control routine tasks with AI-powered reminders and verification in CheckIn24.",
     url: "https://24checkin.ru/",
     siteName: "CheckIn24",
     type: "website",
@@ -27,14 +27,15 @@ export const metadata = {
         url: "/og.png",
         width: 1200,
         height: 630,
-        alt: "CheckIn24 — AI Business Assistant",
+        alt: "CheckIn24 — Employee monitoring, time tracking, and AI-powered reporting",
       },
     ],
   },
   twitter: {
     card: "summary_large_image",
-    title: "CheckIn24 — 24/7 Employee Monitoring",
-    description: "AI-powered time tracking, reporting, and smart reminders.",
+    title: "CheckIn24 — Employee Monitoring & AI Task Control",
+    description:
+      "Track attendance, monitor employees, automate reporting, and manage routine tasks with AI-powered reminders and verification.",
     images: ["/og.png"],
   },
 };
