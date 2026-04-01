@@ -10,7 +10,7 @@ import Script from "next/script";
 
 export const metadata = {
   metadataBase: new URL("https://checkin-en.vercel.app/"),
-  title: "CheckIn24 — Employee Monitoring, Time Tracking & Automated Reporting",
+  title: "CheckIn24 — Employee Monitoring, Time Tracking, Automated Reporting",
   description:
     "CheckIn24 helps businesses monitor employees, track check-in and check-out times, automate routine reporting, and improve discipline with AI-powered task control and reminders.",
   alternates: { canonical: "https://checkin-en.vercel.app/" },
